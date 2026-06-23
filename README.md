@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vlinemidth=500&lines=Hey%2C+I'm+Lalit+%F0%9F%91%8B;Blue+Team+%7C+SOC+%7C+VAPT;TryHackMe+Top+1%25+%F0%9F%94%A5;Breaking+Things+to+Defend+Them" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&width=500&lines=Hey%2C+I'm+Lalit+%F0%9F%91%8B;Blue+Team+%7C+SOC+%7C+VAPT;TryHackMe+Top+1%25+%F0%9F%94%A5;Breaking+Things+to+Defend+Them" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitkeer11-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitkeer11)
@@ -15,12 +15,12 @@
 
 ## 🧠 Who Am I
 
-Cybersecurity practitioner focused on **Blue Team operations, SOC analysis, and VAPT**. I break things in labs so defenders can protect them in the real world. Based in **Bhopal, India**.
+Cybersecurity practitioner focused on **Blue Team operations, SOC analysis, and VAPT**. I break things in labs so defenders can protect them in the real world.
 
 - 🔭 Currently building: Windows Registry Monitoring Tool + IR documentation practice
 - 🎯 Focus: Threat detection, log analysis, incident response
 - 📝 Writing about Blue Team labs on [Medium](https://medium.com/@alalit24lk)
-- ⚡ TryHackMe **Top 1%** — 27 badges earned
+- ⚡ TryHackMe **Top 1%** — 27 badges earned, More Than 250+ Room solve.
 
 ---
 

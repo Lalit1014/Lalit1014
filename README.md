@@ -85,7 +85,7 @@ Cybersecurity practitioner focused on **Blue Team operations, SOC analysis, and 
 ## 📝 Latest Writing
 
 <!-- Replace with actual Medium article links as you publish -->
-- 📄 [SOC Lab Writeup — Blue Team Detection in Practice](https://medium.com/@alalit24lk)
+- 📄 [SOC Lab Writeup — Blue Team Detection in Practice](https://medium.com/@alalit24lk/cybersecurity-project-soc-lab-5949fcd6aca1)
 - 🔜 More writeups coming — follow on Medium
 
 ---
